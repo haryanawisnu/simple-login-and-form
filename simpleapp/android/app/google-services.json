@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "881865539198",
+    "firebase_url": "https://simple-form-01.firebaseio.com",
+    "project_id": "simple-form-01",
+    "storage_bucket": "simple-form-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881865539198:android:3fa114322c29cb45",
+        "android_client_info": {
+          "package_name": "com.simpleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881865539198-l5lng2d2uisdk84272gk9en80q9ckq4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simpleapp",
+            "certificate_hash": "e7a4a7a57937b711058052401b19e1055b4c441f"
+          }
+        },
+        {
+          "client_id": "881865539198-ur1g99kri5b0om1lsel20q27p9sfdtlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGVz8IMjsrhIy7PAWDfTLZgIm9MXX3FAo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881865539198-ur1g99kri5b0om1lsel20q27p9sfdtlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
